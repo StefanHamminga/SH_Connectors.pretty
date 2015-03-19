@@ -18,4 +18,9 @@
   (pad 2 thru_hole oval (at -0.75 -0.45) (size 1.3 2) (drill 0.7) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0.75 -0.45) (size 1.3 2) (drill 0.7) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 2.25 -0.45) (size 1.3 2) (drill 0.7) (layers *.Cu *.Mask))
+  (model 3D/SH/JST_ZH_B4B-ZR.wrl
+    (at (xyz 0 0.06900000000000001 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 270 0 180))
+  )
 )
